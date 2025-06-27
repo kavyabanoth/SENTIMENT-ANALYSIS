@@ -12,11 +12,11 @@ DURATION:6 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-Twitter Sentiment Analysis using NLP & Naive Bayes
+**Twitter Sentiment Analysis using NLP & Naive Bayes**
 
 This project performs sentiment classification on tweet text data using Natural Language Processing (NLP) techniques and the Multinomial Naive Bayes algorithm. The model predicts whether a tweet has a positive (1) or negative (0) sentiment.
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project covers an end-to-end pipeline for sentiment analysis:
 
@@ -30,7 +30,7 @@ Training and evaluating a Naive Bayes classifier
 
 Visualizing most frequent positive/negative words with bar plots and word clouds
 
-📂 Dataset
+**📂 Dataset**
 
 The dataset used is a CSV file named train.csv, containing two columns:
 
@@ -38,47 +38,47 @@ label: Sentiment class (0 = negative, 1 = positive)
 
 tweet: Raw tweet text
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 Python
 
 Libraries: pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-learn, WordCloud
 
-📈 Workflow
+**📈 Workflow**
 
-1.Load & Inspect Data
+**1.Load & Inspect Data**
 
 Preview structure and class distribution
 
 Visualize sentiment labels using countplot
 
-2.Text Preprocessing
+**2.Text Preprocessing**
 
 Lowercasing, removing URLs, mentions, punctuation
 
 Stopword removal and stemming using NLTK
 
-3.Vectorization
+**3.Vectorization**
 
 Use CountVectorizer to convert cleaned text to numerical feature vectors
 
-4.Model Training
+**4.Model Training**
 
 Split data into training and test sets (80/20 split)
 
 Train a Multinomial Naive Bayes model
 
-5.Model Evaluation
+**5.Model Evaluation**
 
 Calculate accuracy, generate classification report, and visualize confusion matrix
 
-6.Insights
+**6.Insights**
 
 Generate word clouds for positive and negative sentiments
 
 Display top 10 frequent words for both classes using bar plots
 
-📊 Sample Results
+**📊 Sample Results**
 
 Accuracy: ~ (as per your run)
 
@@ -88,7 +88,7 @@ Positive: love, thank, happi, good, etc.
 
 Negative: hate, worst, sick, problem, etc.
 
-📁 Output Visuals
+**📁 Output Visuals**
 
 task4_label_plot.jpg – Sentiment distribution
 
@@ -100,6 +100,6 @@ task4_neg_word.jpg – Word cloud for negative tweets
 
 task4_negative.jpg – Bar plots of most common words
 
-✅ Conclusion
+**✅ Conclusion**
 
 This project demonstrates how basic NLP techniques combined with classical ML algorithms like Naive Bayes can be used to build effective text classifiers. It's lightweight, fast, and easy to deploy for social media sentiment monitoring.
