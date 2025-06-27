@@ -103,3 +103,8 @@ task4_negative.jpg – Bar plots of most common words
 **✅ Conclusion**
 
 This project demonstrates how basic NLP techniques combined with classical ML algorithms like Naive Bayes can be used to build effective text classifiers. It's lightweight, fast, and easy to deploy for social media sentiment monitoring.
+
+**Output Picture**
+
+![Image](https://github.com/user-attachments/assets/7e4d61c4-57c4-4068-87aa-b71864c0ac3c)
+![Image](https://github.com/user-attachments/assets/fd813d2d-c625-4c8c-95f0-9d558ce465e5)
