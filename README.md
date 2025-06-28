@@ -108,3 +108,6 @@ This project demonstrates how basic NLP techniques combined with classical ML al
 
 ![Image](https://github.com/user-attachments/assets/7e4d61c4-57c4-4068-87aa-b71864c0ac3c)
 ![Image](https://github.com/user-attachments/assets/fd813d2d-c625-4c8c-95f0-9d558ce465e5)
+![Image](https://github.com/user-attachments/assets/9a7ec1c3-19b2-4f41-ba2e-1595aeb76ebb)
+![Image](https://github.com/user-attachments/assets/22866cdc-8ea5-4b6d-9250-5c9c57ac1d33)
+![Image](https://github.com/user-attachments/assets/02649739-1a49-4408-a96c-4cf14bf081be)
